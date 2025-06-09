@@ -10,3 +10,4 @@ markdown
 langchain-anthropic
 langchain
 reportlab
+pdfplumber
